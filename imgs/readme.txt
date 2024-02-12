@@ -1,0 +1,1 @@
+your custom mosaic previews will land in this folder.
